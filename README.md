@@ -1,1 +1,1 @@
-# duc123
+pip install -r requirements.txt
